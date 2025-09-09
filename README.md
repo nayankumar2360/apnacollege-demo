@@ -1,2 +1,3 @@
-# delta-demo
-This is a demo for git and github class
+# apnacollege-demo
+This is my first git Repository.
+Author - Shradha Khapra
